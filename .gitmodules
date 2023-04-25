@@ -1,0 +1,3 @@
+[submodule "code/mouse-brain-templates_generator"]
+	path = code/mouse-brain-templates_generator
+	url = https://github.com/IBT-FMI/mouse-brain-templates_generator
